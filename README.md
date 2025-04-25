@@ -6,7 +6,7 @@ Ich will diese Lernperiode an meiner Projekt Webseite weiterarbeiten damit ich d
 
 ## 02.05.2025
 
-- [ ]
-- [ ]
+- [ ] Über mich Subpage füllen
+- [ ] Titel so modifizieren das sie zur Landingpage führt
 
 ## Reflexion
