@@ -6,7 +6,9 @@ Ich will diese Lernperiode an meiner Projekt Webseite weiterarbeiten damit ich d
 
 ## 02.05.2025
 
-- [ ] Über mich Subpage füllen
+- [ ]Über mich Subpage füllen
 - [ ] Titel so modifizieren das sie zur Landingpage führt
+
+Leider konnte ich beide Arbetspakete nicht vollständing beenden da wir heute noch Aufträge hatten zum Thema Zukunft (verschiedene ICT Berufe kennengelernt)
 
 ## Reflexion
