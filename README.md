@@ -18,7 +18,12 @@ Leider konnte ich beide Arbetspakete nicht vollständing beenden da wir heute no
 
 ## 16.05.2025
 
-- [ ] Domain kaufen und vorbereiten (DNS)
-- [ ] n8n Projekt starten
+- [x] Domain kaufen und vorbereiten (DNS)
+- [x] n8n Projekt starten
+
+## 23.05.2025
+
+- [ ] Website responsive machen
+- [ ] n8n Projekt weiterbearbeiten
 
 ## Reflexion
