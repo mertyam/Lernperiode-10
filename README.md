@@ -23,7 +23,16 @@ Leider konnte ich beide Arbetspakete nicht vollständing beenden da wir heute no
 
 ## 23.05.2025
 
-- [ ] Website responsive machen
-- [ ] n8n Projekt weiterbearbeiten
+- [x] Website responsive machen
+- [x] n8n Projekt weiterbearbeiten
 
+## 06.06.2025
+
+- [x] NoSQL Modul
+- [x] n8n Projekt weiterarbeiten
+
+## 13.06.2025
+
+- [ ] Nosql Modul
+- [ ] n8n Projekt weiterarbeiten
 ## Reflexion
