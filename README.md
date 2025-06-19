@@ -34,5 +34,11 @@ Leider konnte ich beide Arbetspakete nicht vollständing beenden da wir heute no
 ## 13.06.2025
 
 - [ ] Nosql Modul
-- [ ] n8n Projekt weiterarbeiten
+- [x] n8n Projekt weiterarbeiten
+
+## 20.06.2025
+
+- [ ] nosql modul weiterarbeiten
+- [ ] modul 306 schritt kontrolieren anfangen
+
 ## Reflexion
