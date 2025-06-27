@@ -38,7 +38,12 @@ Leider konnte ich beide Arbetspakete nicht vollständing beenden da wir heute no
 
 ## 20.06.2025
 
-- [ ] nosql modul weiterarbeiten
-- [ ] modul 306 schritt kontrolieren anfangen
+- [x] nosql modul weiterarbeiten
+- [x] modul 306 schritt kontrolieren anfangen
+
+## 27.06.2025
+
+- [ ] Feinschliffe Website
+- [ ] Modul BPM HZ4
 
 ## Reflexion
